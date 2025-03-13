@@ -1,5 +1,5 @@
 app name : Testing App
-web version : 1.0.0
+web version : 1.0.1
 android version : 1.0.0
 ios version : 1.0.0
 
