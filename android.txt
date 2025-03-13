@@ -1,7 +1,0 @@
-app name : Testing App
-web version : 1.0.0
-android version : 1.0.1
-ios version : 1.0.0
-
-content :
-- update 3
